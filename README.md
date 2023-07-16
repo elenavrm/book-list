@@ -15,3 +15,14 @@ This Reading List project includes the following features:
 * Add books to the reading list.
 * Mark books as read, cross book in the list.
 * Remove books from the reading list.
+
+## Demo 
+
+Here is a live demo of the Book List: [Book List](https://keen-bombolone-f06a0b.netlify.app/)
+
+## Technologies Used
+
+* React
+* JavaScript
+* HTML
+* CSS
