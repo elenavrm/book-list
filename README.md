@@ -1,4 +1,5 @@
-# Reading List React Project
+# Book List React web app
+
 This is a simple React project that allows you to create and manage your reading list. You can add books to your reading list, mark them as read, and remove them from the list.
 
 ## Usage
